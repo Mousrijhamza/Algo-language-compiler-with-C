@@ -1,0 +1,211 @@
+                temp = temp->suivant; /*1*/
+        
+        //apartir de cette ligne jusqu'q a l'iteration de test else if suivante ce code est vrai 
+
+                if (strlen(temp->data) == 2 && strcmp(temp->data, ":=") == 0)
+                {
+                    temp = temp->suivant;/*2*/
+                    if (isdigit(temp->data))
+                    {
+                        
+                        if(!strcmp(v1->type, "entier")){
+                            temp = temp->suivant;
+                            if (!strcmp(temp->data, ";")) {
+                                temp = temp->suivant;
+                            
+                            }else
+                            {
+                                    erreur("Point-virgule manquant", (temp != NULL) ? &temp->num_ligne : NULL);
+                            }
+    
+                        }else {
+                            printf(" erreur symontique  : type entier of variable \'%c\' is not exact in line %d \n",v1->name, temp->num_ligne);
+
+                        }
+                    }
+                    else if (isalpha(temp->data))
+                    {
+                    
+
+                        if (!strcmp(v1->type, "charcter")) {
+                            temp = temp->suivant;
+                            if (!strcmp(temp->data, ";")) {
+                            
+                            }
+                            else {
+                                 erreur("Point-virgule manquant", (temp != NULL) ? &temp->num_ligne : NULL);
+                            }
+                        }
+                        else {
+                            printf(" erreur symontique  : type char of variable \'%c\' is not exact in line %d \n",v1->name, temp->num_ligne);
+                        }
+                    }
+                    else if (isitfloat(temp->data))
+                    {
+                        
+                        
+                        if (!strcmp(v1->type, "reel")) {
+
+                        
+                            temp = temp->suivant;
+                            if (!strcmp(temp->data, ";")) {
+                                temp = temp->suivant;
+
+                            }
+                            else {
+                                erreur("Point-virgule manquant", (temp != NULL) ? &temp->num_ligne : NULL);
+
+                            }
+                        }
+                        else {
+
+                            printf(" erreur symontique  : type float of variable \'%c\' is not exact in line %d \n", v1->name, temp->num_ligne);
+                        }
+                    }
+                    else {
+                        printf(" erreur symontique  : value \'%c\' is not exact in line %d \n",temp->data, temp->num_ligne);
+                    
+                    }
+                }
+        //fin avant tous est vrai, apres cette ligne je veux que tu me fait des fonction pour une bonne lisaibilite        
+                else if (strlen(temp->data) == 1 || strcmp(temp->data, "=") == 0)
+                {
+                    temp = temp->suivant;
+                    if (isitint(temp->data))
+                    {
+
+                        if (!strcmp(v1->type, "entier")) {
+                        
+                        }
+                        else {
+
+                            printf(" erreur symontique  : type char of variable \'%c\' is not exact in line %d \n", v1->name, temp->line);
+                        }
+                    }
+                    else if (isitchar(temp->data) == true)
+                    {
+
+
+                        if (!strcmp(v1->type, "charcter")) {
+                    
+                        }
+                        else {
+                            printf(" erreur symontique  : type char of variable \'%c\' is not exact in line %d \n", v1->name, temp->line);
+                        }
+                    }
+                    else if (isitfloat(temp->data) == true)
+                    {
+
+
+                        if (!strcmp(v1->type, "reel")) {
+
+                        }
+                        else {
+
+                            printf(" erreur symontique  : type char of variable \'%c\' is not exact in line %d \n", v1->name, temp->line);
+                        }
+                    }
+                    else {
+                        
+                    }
+                }
+                else if (strlen(temp->data) == 1 || strcmp(temp->data, ">") == 0)
+                {
+                    temp = temp->next;
+                    if (isitint(temp->data) == true)
+                    {
+
+                        if (!strcmp(v1->type, "entier")) {
+                            //  strcpy(v1->value, temp->data);
+                            temp = temp->next;
+                        
+                        }
+                        else {
+
+                            printf(" erreur symontique  : type char of variable \'%c\' is not exact in line %d \n", v1->name, temp->line);
+                        }
+                    }
+                    else if (isitchar(temp->data) == true)
+                    {
+
+
+                        if (!strcmp(v1->type, "charcter")) {
+                            //strcpy(v1->value, temp->data);
+                            temp = temp->next;
+                            
+                        }
+                        else {
+                            printf(" erreur symontique  : type char of variable \'%c\' is not exact in line %d \n", v1->name, temp->line);
+                            // printf(" erreur symontique  : type char of variable \'%s\' is not exact in line %d \n", (char*)v1->name, temp->line);
+                        }
+                    }
+                    else if (isitfloat(temp->data) == true)
+                    {
+
+
+                        if (!strcmp(v1->type, "reel")) {
+
+                            // strcpy(v1->value, temp->data);
+                            temp = temp->next;
+                            
+                        }
+                        else {
+
+                            printf(" erreur symontique  : type char of variable \'%c\' is not exact in line %d \n", v1->name, temp->line);
+                        }
+                    }
+                    else {
+                        // printf(" erreur SYNTAXE : probleme in value   in line %d \n", temp->line);
+                    }
+                }
+                else if (strlen(temp->data) == 1 || strcmp(temp->data, "<") == 0)
+                {
+                    temp = temp->next;
+                    if (isitint(temp->data) == true)
+                    {
+
+                        if (!strcmp(v1->type, "entier")) {
+                            //  strcpy(v1->value, temp->data);
+                            temp = temp->next;
+                        
+                        }
+                        else {
+
+                            printf(" erreur symontique  : type char of variable \'%c\' is not exact in line %d \n", v1->name, temp->line);
+                        }
+                    }
+                    else if (isitchar(temp->data) == true)
+                    {
+
+
+                        if (!strcmp(v1->type, "charcter")) {
+                            //strcpy(v1->value, temp->data);
+                            temp = temp->next;
+                            
+                        }
+                        else {
+                            printf(" erreur symontique  : type char of variable \'%c\' is not exact in line %d \n", v1->name, temp->line);
+                            // printf(" erreur symontique  : type char of variable \'%s\' is not exact in line %d \n", (char*)v1->name, temp->line);
+                        }
+                    }
+                    else if (isitfloat(temp->data) == true)
+                    {
+
+
+                        if (!strcmp(v1->type, "reel")) {
+
+                            // strcpy(v1->value, temp->data);
+                            temp = temp->next;
+                        
+                        }
+                        else {
+
+                            printf(" erreur symontique  : type char of variable \'%c\' is not exact in line %d \n", v1->name, temp->line);
+                        }
+                    }
+                    else {
+                        // printf(" erreur SYNTAXE : probleme in value   in line %d \n", temp->line);
+                    }
+                }
+                else {
+                }

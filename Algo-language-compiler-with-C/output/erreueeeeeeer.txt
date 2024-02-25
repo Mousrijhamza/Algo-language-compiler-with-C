@@ -1,0 +1,64 @@
+Erreur syntaxique : %D numero : 4.
+Erreur syntaxique : %D numero : 4.
+Erreur syntaxique : %D numero : 4.
+Erreur syntaxique : %D numero : 4.
+Erreur syntaxique : %D numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique dans la variable : Vadsd numero : 11.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique dans la variable : Vadsd numero : 11.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique dans la variable : Vadsd numero : 11.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique dans la variable : Vadsd numero : 11.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique dans la variable : Vadsd numero : 11.
+Erreur syntaxique dans la variable : Vadsd numero : 11.
+Erreur syntaxique : %E numero : 4.
+Erreur syntaxique dans la variable : Vadsd numero : 11.
+Erreur syntaxique : %R numero : 4.
+Erreur syntaxique dans la variable : Vadsd numero : 11.
+Erreur syntaxique dans la variable : Vadsd numero : 11.
+Erreur syntaxique dans la variable : Vadsd numero : 11.
+Erreur syntaxique dans la variable : Vadsd numero : 11.
+Erreur syntaxique dans la variable : Vadsd numero : 11.
+Erreur syntaxique : %ds numero : 4.
+Erreur syntaxique : %R numero : 4.
+Erreur syntaxique : %ds numero : 4.
+Erreur syntaxique : << numero : 3.
+Erreur syntaxique : %ds numero : 4.
+Erreur syntaxique : mefafasfassage numero : 8.
+Erreur syntaxique : l numero : 11.
+Erreur syntaxique : ) numero : 12.
+Erreur syntaxique : ; numero : 13.
+Erreur syntaxique : %ds numero : 4.
+Erreur syntaxique dans la variable : Ecrirhjbe numero : 1.
+Erreur syntaxique : %ds numero : 4.
+Erreur syntaxique : Ecrire numero : 1.
+Erreur syntaxique : %ds numero : 4.
+Erreur syntaxique : Ecrire ~ Ecrirhjbe numero : 1.
+Erreur syntaxique : %ds numero : 4.
+Erreur syntaxique : Ecrire ~ Ecrirhjbe, numero : 1.
+Erreur syntaxique :   ~ %ds, numero : 4.
+Erreur syntaxique : Ecrire ~ Ecrirhjbe, numero : 1.
+Erreur syntaxique :   ~ %ds, numero : 4.
+Erreur syntaxique : Ecrire ~ Ecrirhjbe, numero : 1.
+Erreur syntaxique :   ~ %ds, numero : 4.
+Erreur syntaxique : Ecrire ~ Ecrirhjbe, numero : 1.
+Erreur syntaxique :   ~ %ds, numero : 4.
+Erreur syntaxique : Ecrire ~ Ecrirhjbe, numero : 1.
+Erreur syntaxique :   ~ %ds, numero : 4.

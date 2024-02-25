@@ -1,0 +1,11 @@
+Debut
+Variable b :  ;
+Lire ( a ) ;
+
+Si ( a < 5 ) alors
+Lire ( << c >> ) ;
+Sinon
+Ecrire ( c ) ;
+Finsi ;
+Fin ;
+

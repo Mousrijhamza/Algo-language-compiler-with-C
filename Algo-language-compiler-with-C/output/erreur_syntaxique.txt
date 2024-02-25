@@ -1,0 +1,361 @@
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Finsi manquant pour Si.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Si manquant.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Finsi manquant pour Si.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Si manquant.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : parenthese fermante manquante pour Si a la ligne 4.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : parenthese fermante manquante pour Si a la ligne 4.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : parenthese fermante manquante pour Si a la ligne 4.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : parenthese fermante manquante pour Si a la ligne 4.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 6.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : parenthese fermante manquante pour Si a la ligne 4.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 6.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Sinon manquant pour Si.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 6.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : alors manquant pour Si a la ligne 4.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 6.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Finsi manquant pour Si.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 7.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Debut manquante avant a la ligne 10.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Si manquante avant a la ligne 5.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Si manquante avant a la ligne 9.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Si manquante avant a la ligne 5.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Si manquante avant a la ligne 9.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Finsi.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : 'ï' manquante.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique :  ï manquante.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique :  Finsi manquante.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Finsi manquante pour Si.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Finsi manquante pour Si.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Finsi manquante pour Si.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Fin manquante a la fin.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Finsi manquante pour Si.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Finsi manquante pour Si.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Si manquante avant a la ligne 9.
+Erreur syntaxique : Deux-points manquants a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Si manquante avant a la ligne 9.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Finsi manquante pour Si.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Si manquante avant a la ligne 9.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Si manquante avant a la ligne 9.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Si manquante avant a la ligne 9.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Si manquante avant a la ligne 5.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Si manquante avant a la ligne 7.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Si manquante avant a la ligne 9.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Si manquante avant a la ligne 10.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Si manquante avant a la ligne 5.
+Erreur syntaxique : Guillemets angulaires ouvrants manquants a la ligne 8.
+Erreur syntaxique : Type de variable incorrect a la ligne 2.
+Erreur syntaxique : Point-virgule manquant a la ligne 1.
+Erreur syntaxique : Point-virgule manquant.
+Erreur syntaxique : Erreur syntaxique a la ligne 1.
+Erreur syntaxique : Erreur syntaxique a la ligne 4.
+Erreur syntaxique : Ecrirhjbe a la ligne 1.
+Erreur syntaxique : %ds a la ligne 4.
+Erreur syntaxique : EcrirhjbeEcrire a la ligne 1.
+Erreur syntaxique : %ds a la ligne 4.
+Erreur syntaxique : EcrirhjbeEcrire a la ligne 1.
+Erreur syntaxique : %ds  a la ligne 4.
+Erreur syntaxique : Ecrirhjbe~Ecrire a la ligne 1.
+Erreur syntaxique : %ds~  a la ligne 4.
+Erreur syntaxique : Ecrirhjbe~Ecrire a la ligne 1.
+Erreur syntaxique : %ds~  a la ligne 4.
+Erreur syntaxique : Ecrirhjbe~Ecrire num 1.
+Erreur syntaxique : %ds~  num 4.
+Erreur syntaxique : Ecrirhjbe~Ecrire num : 1.
+Erreur syntaxique : %ds~  num : 4.
+Erreur syntaxique : Finsi manquante pour Si.
+Erreur syntaxique : (~Ecrire num : 1.
+Erreur syntaxique : <<~( num : 2.
+Erreur syntaxique : %ds~<< num : 3.
+Erreur syntaxique : >>~  num : 4.
+Erreur syntaxique : ,~>> num : 5.
+Erreur syntaxique : <<~, num : 6.
+Erreur syntaxique : mefafasfassage~<< num : 7.
+Erreur syntaxique : ,~>> num : 9.
+Erreur syntaxique : l~, num : 10.
+Erreur syntaxique : %ds~  num : 4.
+Erreur syntaxique : mefafasfassage~<< num : 7.
+Erreur syntaxique : ,~>> num : 9.
+Erreur syntaxique : l~, num : 10.
+Erreur syntaxique : Ecridasre~Ecrire num : 1.
+Erreur syntaxique : (dd~( num : 2.
+Erreur syntaxique : dd~( num : 2.
+Erreur syntaxique : <<~( num : 2.
+Erreur syntaxique : %E~<< num : 3.
+Erreur syntaxique : >>~  num : 4.
+Erreur syntaxique : ,~>> num : 5.
+Erreur syntaxique : <<~, num : 6.
+Erreur syntaxique : mefafasfassage~<< num : 7.
+Erreur syntaxique : ,~>> num : 9.
+Erreur syntaxique : ;~, num : 10.
+Erreur syntaxique : <<~( num : 2.
+Erreur syntaxique : <<~( num : 2.
+Erreur syntaxique : << missed ~( num : 2.
+Erreur syntaxique : << missed ~ ( num : 2.
+Erreur syntaxique : %D~  num : 4.
+Erreur syntaxique :  missed ~   num : 543450483.
+Erreur syntaxique : , missed ~   num : 10.
+Erreur syntaxique : ( missed ~ Ecrire num : 2.
+Erreur syntaxique : ( missed ~ Ecrire num : 2.
+Erreur syntaxique : ( missed ~ Ecrire num : 2.
+Erreur syntaxique : Ecrire missed ~ Ecrire num : 1.
+Erreur syntaxique : Ecrire missed ~ Ecrire num : 1.
+Erreur syntaxique : Ecrire missed ~ ( num : 1.
+Erreur syntaxique :  .
+Erreur syntaxique :  .
+Erreur syntaxique :  .
+Erreur syntaxique :  .
+Erreur syntaxique :  .
+Erreur syntaxique :  .
+Erreur syntaxique :  .
+Erreur syntaxique :  .
+Erreur syntaxique : Ecrire missed ~ Ecrire num : 1.
+Erreur syntaxique : Ecrire missed ~ Ecrire num : 1.
+Erreur syntaxique :  .
+Erreur syntaxique : << missed ~ ( num : 2.
+Erreur syntaxique : () missed ~ ( num : 2.
+Erreur syntaxique : adas~  num : 11.
+Erreur syntaxique : ;.
+Erreur syntaxique : ; .
+Erreur syntaxique : ; .
+Erreur syntaxique : ; .
+Erreur syntaxique : ) .
+Erreur syntaxique : ) .
+Erreur syntaxique :   .
+Erreur syntaxique :   .
+Erreur syntaxique :   .
+Erreur syntaxique : ) .
+Erreur syntaxique : ; .
+Erreur syntaxique :  .
+Erreur syntaxique :  .
+Erreur syntaxique : Ra@ .
+Erreur syntaxique : Ra@ .
+Erreur syntaxique : adas~  num : 11 .
+Erreur syntaxique : %F~  num : 4 .
+Erreur syntaxique : adas~  num : 11 .
+Erreur syntaxique : ) .
+Erreur syntaxique : ) .
+Erreur syntaxique : ; .
+Erreur syntaxique : ; .
+Erreur syntaxique : ; num : 12 .
+Erreur syntaxique : ; .
+Erreur syntaxique : ; num : 12 .
+Erreur syntaxique : Ecrire~Ecrire a la ligne 1.
+Erreur syntaxique : (~( a la ligne 1.
+Erreur syntaxique : <<~<< a la ligne 1.
+Erreur syntaxique : >>~>> a la ligne 1.
+Erreur syntaxique : ,~, a la ligne 1.
+Erreur syntaxique : <<~<< a la ligne 1.
+Erreur syntaxique : >>~>> a la ligne 1.
+Erreur syntaxique : ,~, a la ligne 1.
+Erreur syntaxique : ) a la ligne 11.
+Erreur syntaxique : Ecrire~Ecrire a la ligne 1.
+Erreur syntaxique : (~( a la ligne 1.
+Erreur syntaxique : <<~<< a la ligne 1.
+Erreur syntaxique : >>~>> a la ligne 1.
+Erreur syntaxique : ,~, a la ligne 1.
+Erreur syntaxique : <<~<< a la ligne 1.
+Erreur syntaxique : >>~>> a la ligne 1.
+Erreur syntaxique : ,~, a la ligne 1.
+Erreur syntaxique : ) a la ligne 11.
+Erreur syntaxique : Ecrire~Ecrire a la ligne 1.
+Erreur syntaxique : Ecrire~Ecrire a la ligne 1.
+Erreur syntaxique : Ecrire~Ecrire a la ligne 1.
+Erreur syntaxique : Ecrire~Ecrire a la ligne 1.
+Erreur syntaxique : Ecrire~Ecrire a la ligne 1.
+Erreur syntaxique : Ecrire~Ecrire a la ligne 1.
+Erreur syntaxique : ; a la ligne 12.
+Erreur syntaxique : ; a la ligne 12.
+Erreur syntaxique : ; num : 12 .
+Erreur syntaxique : ; a la ligne 12.
+Erreur syntaxique : ; a la ligne 12.
+Erreur syntaxique : ;.
+Erreur syntaxique : ; .
+Erreur syntaxique : ; num : 12 .
+Erreur syntaxique : ; .
+Erreur syntaxique : ; .
+Erreur syntaxique : ; .
+Erreur syntaxique : ; num : 12 .
+Erreur syntaxique : Ecrire missed ~ ( num : 1 .
+Erreur syntaxique : ; num : 12 .
+Erreur syntaxique : ; .
+Erreur syntaxique : ; .
+Erreur syntaxique : Ecrire~Ecrire a la ligne 1 .
