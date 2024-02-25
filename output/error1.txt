@@ -1,0 +1,286 @@
+Erreur ligne, colonne 4, 15 : 'entiers' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 7, 2 : 'Fi' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 4, 15 : 'entiers' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 7, 2 : 'Fi' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 2, 15 : 'entiers' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 5, 2 : 'Fi' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 2, 14 : 'sa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 2, 11 : 'aasd' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 2, 11 : 'aasd' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 1 : 'askfdkas' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 2, 1 : 'fasfa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 3, 1 : 'asdasa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 4, 1 : 'sfasf' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 1 : 'askfdkas' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 2, 1 : 'fasfa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 3, 1 : 'asdasa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 4, 1 : 'sfasf' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 1 : 'Declar' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 14 : 'reel;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 14 : 'reel;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 14 : 'reel;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 14 : 'alor' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 14 : 'alor' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 14 : 'cahra' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 14 : 'reel;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 14 : 'reel;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 2, 1 : 'lireasd' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 3, 1 : 'Lire' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 10 : 'ajk' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 8, 1 : 'Finsi;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 8, 1 : 'Finsi;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 8, 1 : 'Finsi;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 10, 1 : 'Fin;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 10, 1 : 'Fin;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 10, 1 : 'Fin;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 9, 1 : 'Fin;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 9, 1 : 'Fin;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 9, 1 : 'Fin;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 9, 1 : 'Fin;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 9, 1 : 'Fin;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 9, 1 : 'Fin;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 9, 1 : 'Fin;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 9, 1 : 'Fin;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 9, 1 : 'Fin;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 9, 1 : 'Finsi;' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : 'hello' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 6 : 'aa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%E' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%E' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%E' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%E' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%E' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%E' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%E' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%E' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%E' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%E' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%d' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%d' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%d' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%d' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%E' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : '%E' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : 'sa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : 'sa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : 'sa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : 'sa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : 'sa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : 'sa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : 'sa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 13 : 'sa' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 19 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 24 : 'mefafasfas ' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
+Erreur ligne, colonne 1, 42 : ',' n'exist pas dans le dictionnaire de la langue.
+----------------------------------------------------------------------------------------
